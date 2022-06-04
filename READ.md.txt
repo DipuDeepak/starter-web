@@ -16,8 +16,9 @@ lemfkenkfnefbjerfbjrbfgbrj
 
 ## How to Contribute
 
+please fork this repository and then issue pull request
 
-#Copyright 
+Copyright 
 
 
 Git.tTRAINING.NTOICE
