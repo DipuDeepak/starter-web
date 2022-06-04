@@ -1,9 +1,9 @@
-# humanstxt.org/
+i# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason tylor  jason@git.training @awesomejt
 
 # THANKS
 
